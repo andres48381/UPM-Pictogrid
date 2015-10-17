@@ -1,0 +1,1 @@
+/usr/bin/c++      CMakeFiles/client.dir/cliente.cpp.o CMakeFiles/client.dir/EscenarioCliente.cpp.o  -o client -rdynamic -L/home/andres/Escritorio/funciona libcommon.a -lglut -lGLU -lGL -lpthread 

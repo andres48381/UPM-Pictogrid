@@ -1,0 +1,3 @@
+/home/andres/Escritorio/funciona/CMakeFiles/client.dir
+/home/andres/Escritorio/funciona/CMakeFiles/common.dir
+/home/andres/Escritorio/funciona/CMakeFiles/server.dir

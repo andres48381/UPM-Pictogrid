@@ -1,0 +1,1 @@
+/usr/bin/c++      CMakeFiles/server.dir/servidor.cpp.o CMakeFiles/server.dir/EscenarioServidor.cpp.o  -o server -rdynamic -L/home/andres/Escritorio/funciona libcommon.a -lglut -lGLU -lGL -lpthread 
